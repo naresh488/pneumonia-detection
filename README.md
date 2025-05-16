@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pneumonia Detection Project
 
 This project aims to develop a machine learning model for the detection of pneumonia from chest X-ray images. The model is trained using a dataset of labeled images and is evaluated on separate validation and test datasets.
@@ -42,3 +43,6 @@ This project aims to develop a machine learning model for the detection of pneum
 ## Acknowledgments
 
 - This project utilizes various libraries and frameworks for machine learning and image processing. Please refer to the `requirements.txt` for a complete list of dependencies.
+=======
+# pneumonia-detection
+>>>>>>> 3c95036b511f4bb81ff79089952794e58a6ea459
